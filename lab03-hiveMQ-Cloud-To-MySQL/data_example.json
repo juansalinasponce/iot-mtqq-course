@@ -1,0 +1,17 @@
+{
+  "device_id": "sensor-001",
+  "usuario": "juan.salinas",
+  "timestamp": "2025-07-22T23:10:45.678Z",
+  "location": {
+    "latitude": -12.021,
+    "longitude": -77.034,
+    "altitude": 176.3
+  },
+  "type": "temperature_humidity",
+  "readings": {
+    "temperature_c": 27.8,
+    "humidity_percent": 59.2
+  },
+  "battery_level": 83,
+  "status": "active"
+}
